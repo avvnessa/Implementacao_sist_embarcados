@@ -18,7 +18,7 @@ Quando a luminosidade ambiente está baixa, o LDR apresenta uma resistência alt
 
 ## Circuito
 
-![Circuito](https://github.com/avvnessa/Implementacao_sist_embarcados/assets/96122153/5c250e26-9d12-4db4-8f18-bddb93cfb633)
+https://github.com/avvnessa/Implementacao_sist_embarcados/assets/96122153/5c250e26-9d12-4db4-8f18-bddb93cfb633
 
 ## Créditos
 
